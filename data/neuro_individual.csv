@@ -1,0 +1,203 @@
+disorder,country,region,who_region,who_region_fine,year_published,OR
+Addiction disorder,germany,Europe,European Region,EUR A,1995,1.36
+Addiction disorder,spain,Europe,European Region,EUR A,1996,2.12
+Addiction disorder,spain,Europe,European Region,EUR A,1996,1.91
+Addiction disorder,vietnam,Asia,Western Pacific Region,WPR B,2003,1.16
+Addiction disorder,mexico,North America,Region of the Americas,AMR B,2006,1.95
+Alzheimer's disease,mexico,North America,Region of the Americas,AMR B,2006,49.85
+Alzheimer's disease,turkey,Middle East,European Region,EUR B,2011,2.46
+Alzheimer's disease,china,Asia,Western Pacific Region,WPR B,2015,1.27
+Alzheimer's disease,china,Asia,Western Pacific Region,WPR B,2015,1.42
+Alzheimer's disease,iran,Middle East,Eastern Mediterranean Region,EMR B,2016,1.55
+Alzheimer's disease,iran,Middle East,Eastern Mediterranean Region,EMR B,2016,0.94
+Alzheimer's disease,saudi_arabia,Middle East,Eastern Mediterranean Region,EMR B,2016,5.75
+Alzheimer's disease,czech_republic,Europe,European Region,EUR A,2016,
+Alzheimer's disease,usa,North America,Region of the Americas,AMR A,2016,1.39
+Alzheimer's disease,czech_republic,Europe,European Region,EUR A,2017,2.65
+Bipolar disorder,ireland,Europe,European Region,EUR A,2003,2.85
+Bipolar disorder,mexico,North America,Region of the Americas,AMR B,2006,2.05
+Bipolar disorder,china,Asia,Western Pacific Region,WPR B,2010,0.8
+Bipolar disorder,germany,Europe,European Region,EUR A,2010,1.67
+Bipolar disorder,germany,Europe,European Region,EUR A,2010,1.14
+Bipolar disorder,denmark,Europe,European Region,EUR A,2011,1.36
+Bipolar disorder,china,Asia,Western Pacific Region,WPR B,2011,2.11
+Bipolar disorder,ethiopia,sub Saharan Africa,African Region,AFR E,2011,3
+Bipolar disorder,ethiopia,sub Saharan Africa,African Region,AFR E,2011,1.59
+Bipolar disorder,usa,North America,Region of the Americas,AMR A,2012,2.4
+Bipolar disorder,iran,Middle East,Eastern Mediterranean Region,EMR B,2013,1.28
+Bipolar disorder,usa,North America,Region of the Americas,AMR A,2013,1.58
+Bipolar disorder,france,Europe,European Region,EUR A,2013,2.29
+Bipolar disorder,germany,Europe,European Region,EUR A,2014,0.43
+Bipolar disorder,germany,Europe,European Region,EUR A,2015,1.36
+Epilepsy,israel,Middle East,European Region,EUR A,1995,2.36
+Epilepsy,usa,North America,Region of the Americas,AMR A,2001,2.62
+Epilepsy,turkey,Middle East,European Region,EUR B,2003,5.35
+Epilepsy,india,Asia,South-East Asian Region,SEAR D,2003,3
+Epilepsy,turkey,Middle East,European Region,EUR B,2007,1.8
+Epilepsy,iran,Middle East,Eastern Mediterranean Region,EMR B,2010,3.33
+Epilepsy,sub_saharan_africa,sub Saharan Africa,African Region,AFR D/E,2013,1.17
+Epilepsy,egypt,Middle East,Eastern Mediterranean Region,EMR D,2013,2.01
+Epilepsy,sub_saharan_africa,sub Saharan Africa,African Region,AFR D/E,2013,1.87
+Epilepsy,south_africa,sub Saharan Africa,African Region,AFR E,2014,1.1
+Epilepsy,ghana,sub Saharan Africa,African Region,AFR D,2015,1.43
+Epilepsy,ghana,sub Saharan Africa,African Region,AFR D,2015,2.19
+Epilepsy,egypt,Middle East,Eastern Mediterranean Region,EMR D,2016,4.03
+Epilepsy,egypt,Middle East,Eastern Mediterranean Region,EMR D,2016,2.25
+Epilepsy,uganda,sub Saharan Africa,African Region,AFR E,2017,1.19
+Epilepsy,uganda,sub Saharan Africa,African Region,AFR E,2017,0.89
+Epilepsy,iran,Middle East,Eastern Mediterranean Region,EMR B,2017,0.89
+Epilepsy,mexico,North America,Region of the Americas,AMR B,2018,1.74
+Major depression,usa,North America,Region of the Americas,AMR A,2003,7.57
+Major depression,uk,Europe,European Region,EUR A,2004,
+Major depression,mexico,North America,Region of the Americas,AMR B,2006,5.13
+Major depression,turkey,Middle East,European Region,EUR B,2007,1.12
+Major depression,germany,Europe,European Region,EUR A,2007,
+Major depression,iran,Middle East,Eastern Mediterranean Region,EMR B,2010,
+Major depression,china,Asia,Western Pacific Region,WPR B,2010,
+Major depression,mexico,North America,Region of the Americas,AMR B,2011,
+Major depression,china,Asia,Western Pacific Region,WPR B,2011,
+Major depression,austria,Europe,European Region,EUR A,2011,
+Major depression,egypt,Middle East,Eastern Mediterranean Region,EMR D,2012,
+Major depression,usa,North America,Region of the Americas,AMR A,2012,
+Major depression,usa,North America,Region of the Americas,AMR A,2013,
+Major depression,germany,Europe,European Region,EUR A,2014,
+Major depression,usa,North America,Region of the Americas,AMR A,2014,
+Major depression,usa,North America,Region of the Americas,AMR A,2015,
+Major depression,saudi_arabia,Middle East,Eastern Mediterranean Region,EMR B,2015,
+Major depression,china,Asia,Western Pacific Region,WPR B,2015,
+Major depression,germany,Europe,European Region,EUR A,2016,
+Major depression,egypt,Middle East,Eastern Mediterranean Region,EMR D,2016,
+Major depression,iran,Middle East,Eastern Mediterranean Region,EMR B,2016,
+Major depression,mexico,North America,Region of the Americas,AMR B,2016,
+Major depression,mexico,North America,Region of the Americas,AMR B,2016,
+Major depression,usa,North America,Region of the Americas,AMR A,2016,
+Major depression,new_zealand,Oceania,Western Pacific Region,WPR A,2016,
+Major depression,saudi_arabia,Middle East,Eastern Mediterranean Region,EMR B,2016,
+Major depression,czech_republic,Europe,European Region,EUR A,2016,
+Major depression,mexico,North America,Region of the Americas,AMR B,2017,
+Major depression,finland,Europe,European Region,EUR A,2017,
+Major depression,usa,North America,Region of the Americas,AMR A,2017,
+Major depression,iran,Middle East,Eastern Mediterranean Region,EMR B,2017,
+Major depression,czech_republic,Europe,European Region,EUR A,2017,
+Major depression,mexico,North America,Region of the Americas,AMR B,2017,
+Major depression,usa,North America,Region of the Americas,AMR A,2017,
+Obsessive compulsive disorder,mexico,North America,Region of the Americas,AMR B,2006,
+Obsessive compulsive disorder,turkey,Middle East,European Region,EUR B,2010,
+Obsessive compulsive disorder,china,Asia,Western Pacific Region,WPR B,2010,
+Obsessive compulsive disorder,china,Asia,Western Pacific Region,WPR B,2015,
+Obsessive compulsive disorder,turkey,Middle East,European Region,EUR B,2015,
+Obsessive compulsive disorder,saudi_arabia,Middle East,Eastern Mediterranean Region,EMR B,2016,
+Obsessive compulsive disorder,czech_republic,Europe,European Region,EUR A,2016,
+Obsessive compulsive disorder,usa,North America,Region of the Americas,AMR A,2016,
+Obsessive compulsive disorder,czech_republic,Europe,European Region,EUR A,2017,
+Obsessive compulsive disorder,czech_republic,Europe,European Region,EUR A,2017,
+Obsessive compulsive disorder,iran,Middle East,Eastern Mediterranean Region,EMR B,2017,
+Obsessive compulsive disorder,turkey,Middle East,European Region,EUR B,2018,
+Parkinson's disease,turkey,Middle East,European Region,EUR B,2010,2.53
+Parkinson's disease,turkey,Middle East,European Region,EUR B,2010,1.25
+Parkinson's disease,turkey,Middle East,European Region,EUR B,2013,0.78
+Parkinson's disease,iran,Middle East,Eastern Mediterranean Region,EMR B,2016,2.62
+Parkinson's disease,iran,Middle East,Eastern Mediterranean Region,EMR B,2016,0.6
+Parkinson's disease,iran,Middle East,Eastern Mediterranean Region,EMR B,2017,0.9
+Parkinson's disease,mexico,North America,Region of the Americas,AMR B,2017,0.84
+Parkinson's disease,egypt,Middle East,Eastern Mediterranean Region,EMR D,2017,0.87
+Rheumatoid arthritis,Europe,Latin America,Region of the Americas,-,2012,1.02
+Rheumatoid arthritis,Europe,Europe,European Region,-,2012,9.64
+Rheumatoid arthritis,iraq,Middle East,Eastern Mediterranean Region,EMR D,2014,3.67
+Rheumatoid arthritis,iraq,Middle East,Eastern Mediterranean Region,EMR D,2014,4.13
+Rheumatoid arthritis,iraq,Middle East,Eastern Mediterranean Region,EMR D,2016,4.38
+Rheumatoid arthritis,egypt,Middle East,Eastern Mediterranean Region,EMR D,2016,2.49
+Rheumatoid arthritis,czech republic and slovakia,Europe,European Region,EUR A,2016,2.94
+Rheumatoid arthritis,egypt,Middle East,Eastern Mediterranean Region,EMR D,2017,3.51
+Rheumatoid arthritis,china,Asia,Western Pacific Region,WPR B,2017,2.43
+Rheumatoid arthritis,iraq,Middle East,Eastern Mediterranean Region,EMR D,2017,58.99
+Schizophrenia,germany,Europe,European Region,EUR A,1956,1.88
+Schizophrenia,italy,Europe,European Region,EUR A,1958,1.55
+Schizophrenia,australia,Oceania,Western Pacific Region,WPR A,1961,0.88
+Schizophrenia,russia,Asia,European Region,EUR C,1962,1.23
+Schizophrenia,italy,Europe,European Region,EUR A,1966,3.68
+Schizophrenia,spain,Europe,European Region,EUR A,1968,1.86
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1984,14.22
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1990,2.81
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1994,2.42
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1995,2.96
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1996,4.51
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1999,1.81
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,1999,7.66
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2001,4.63
+Schizophrenia,germany,Europe,European Region,EUR A,2001,5.45
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2002,5.19
+Schizophrenia,ireland,Europe,European Region,EUR A,2003,1.79
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2003,2.93
+Schizophrenia,germany,Europe,European Region,EUR A,2004,2.7
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2005,3.33
+Schizophrenia,turkey,Middle East,European Region,EUR B,2005,1.16
+Schizophrenia,germany,Europe,European Region,EUR A,2005,1.63
+Schizophrenia,peru,South America,Region of the Americas,AMR D,2005,2.19
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2005,4.45
+Schizophrenia,egypt,Middle East,Eastern Mediterranean Region,EMR D,2005,3.47
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2005,2.49
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2005,1.84
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2006,4.01
+Schizophrenia,mexico,North America,Region of the Americas,AMR B,2006,2.7
+Schizophrenia,turkey,Middle East,European Region,EUR B,2007,6.62
+Schizophrenia,germany,Europe,European Region,EUR A,2007,0.91
+Schizophrenia,denmark,Europe,European Region,EUR A,2007,1.79
+Schizophrenia,turkey,Middle East,European Region,EUR B,2008,3.98
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2008,1.22
+Schizophrenia,turkey,Middle East,European Region,EUR B,2009,3.26
+Schizophrenia,iran,Middle East,Eastern Mediterranean Region,EMR B,2009,1.22
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2009,1.28
+Schizophrenia,turkey,Middle East,European Region,EUR B,2010,1.85
+Schizophrenia,iran,Middle East,Eastern Mediterranean Region,EMR B,2010,1.63
+Schizophrenia,iran,Middle East,Eastern Mediterranean Region,EMR B,2010,3.16
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2010,0.69
+Schizophrenia,turkey,Middle East,European Region,EUR B,2010,0.8
+Schizophrenia,turkey,Middle East,European Region,EUR B,2010,1.86
+Schizophrenia,germany,Europe,European Region,EUR A,2010,2.53
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2011,4.12
+Schizophrenia,ethiopia,sub Saharan Africa,African Region,AFR E,2011,4.25
+Schizophrenia,mexico,South America,Region of the Americas,AMR B,2011,4.35
+Schizophrenia,denmark,Europe,European Region,EUR A,2011,1.39
+Schizophrenia,china,Asia,Western Pacific Region,WPR B,2011,2.82
+Schizophrenia,iran,Middle East,Eastern Mediterranean Region,EMR B,2011,3.56
+Schizophrenia,ethiopia,sub Saharan Africa,African Region,AFR E,2011,4.7
+Schizophrenia,malaysia,Asia,Western Pacific Region,WPR B,2012,1.16
+Schizophrenia,czech_republic,Europe,European Region,EUR A,2012,1.24
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2012,1.38
+Schizophrenia,brazil,South America,Region of the Americas,AMR B,2012,1.97
+Schizophrenia,egypt,Middle East,Eastern Mediterranean Region,EMR D,2012,3.05
+Schizophrenia,south_korea,Asia,Western Pacific Region,WPR B,2012,3.22
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2013,1.04
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2013,1.24
+Schizophrenia,france,Europe,European Region,EUR A,2013,1.25
+Schizophrenia,sweden,Europe,European Region,EUR A,2013,2
+Schizophrenia,iran,Middle East,Eastern Mediterranean Region,EMR B,2014,0.57
+Schizophrenia,germany,Europe,European Region,EUR A,2014,0.82
+Schizophrenia,usa,North America,Region of the Americas,AMR A,2014,2.42
+Suicide attempts,usa,North America,Region of the Americas,AMR A,2009,1.62
+Suicide attempts,turkey,Middle East,European Region,EUR B,2010,1.79
+Suicide attempts,germany,Europe,European Region,EUR A,2011,
+Suicide attempts,denmark,Europe,European Region,EUR A,2012,1.442618629
+Suicide attempts,sweden,Europe,European Region,EUR A,2012,2.75
+Suicide attempts,mexico,North America,Region of the Americas,AMR B,2013,0.55
+Suicide attempts,poland,Europe,European Region,EUR B,2013,1.82
+Suicide attempts,france,Europe,European Region,EUR A,2015,1.08
+Suicide attempts,usa,North America,Region of the Americas,AMR A,2016,5.35
+Suicide attempts,new_zealand,Oceania,Western Pacific Region,WPR A,2016,2.6
+Suicide attempts,iran,Middle East,Eastern Mediterranean Region,EMR B,2017,0.4
+Suicide attempts,south_korea,Asia,Western Pacific Region,WPR B,2018,2.49
+Suicide attempts,denmark,Europe,European Region,EUR A,2019,1.13
+Suicide attempts,netherlands,Europe,European Region,EUR A,2019,0.31
+Traffic accidents,czech_republic,Europe,European Region,EUR A,2002,2.11
+Traffic accidents,turkey,Middle East,European Region,EUR B,2006,4.633928571
+Traffic accidents,turkey,Middle East,European Region,EUR B,2009,2.96
+Traffic accidents,czech_republic,Europe,European Region,EUR A,2009,1.11
+Traffic accidents,poland,Europe,European Region,EUR B,2013,1.27
+Traffic accidents,mexico,North America,Region of the Americas,AMR B,2013,0.94
+Traffic accidents,iran,Middle East,Eastern Mediterranean Region,EMR B,2014,1.32
+Traffic accidents,mexico,North America,Region of the Americas,AMR B,2015,0.55
+Traffic accidents,jordan,Middle East,Eastern Mediterranean Region,EMR B,2016,1.28
+Traffic accidents,new_zealand,Oceania,Western Pacific Region,WPR A,2016,1.46
+Traffic accidents,russia,Asia,European Region,EUR C,2017,1.75
+Traffic accidents,denmark,Europe,European Region,EUR A,2019,1.11
